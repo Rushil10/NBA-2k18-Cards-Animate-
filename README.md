@@ -1,4 +1,4 @@
-### Cards Animation In React Native
+# Cards Animation In React Native
 
 ## Libraries used
 * react-native-gesture-handler
