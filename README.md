@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/59598697/188392237-03188a91-839d-43e3-
 
 ## Gestures Made
 * Swipe Left
-* Swipe Left
+* Swipe Right
 * Falling Stack Of Cards
 
 
